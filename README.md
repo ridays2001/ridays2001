@@ -1,4 +1,4 @@
-# Hello, I am Riday!
+# Hello, I am Riday! 👋
 
 <div style='font-size:1.2em'>
 	🌐 Home - Mumbai, India.
@@ -6,6 +6,8 @@
 	🎂 Birthday - 28th July, 2001
 	<br>
 	👤 Occupation - Student
+	<br>
+	✨ Currently learning UI / UX design.
 	<br>
 	💭 &ldquo; I aspire to be a great web developer. &rdquo;
 </div>
