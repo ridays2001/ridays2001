@@ -30,7 +30,7 @@
 	</a>
 	&emsp;
 	<a href='mailto:iam@riday.me'>
-		<img src='https://img.shields.io/badge/Email-iam@riday.me-EA4335?logo=gmail&logoColor=EA4335&logoWidth=30&labelColor=black&style=flat' alt='ridayshah2001@gmail.com'>
+		<img src='https://img.shields.io/badge/Email-iam@riday.me-EA4335?logo=gmail&logoColor=EA4335&logoWidth=30&labelColor=black&style=flat' alt='iam@riday.me'>
 	</a>
 </div>
 
@@ -40,7 +40,7 @@
 
 <div>
 	<!-- Editor -->
-		<img src='https://img.shields.io/badge/Editor-Visual%20Studio%20Code%20--%20Insiders-2db261?logoWidth=30&labelColor=black&style=for-the-badge&logo=visual-studio-code&logoColor=2db261' alt='Visual Studio Code - Insiders'>
+		<img src='https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?logoWidth=30&labelColor=black&style=for-the-badge&logo=visual-studio-code&logoColor=007ACC' alt='Visual Studio Code'>
 	&ensp;
 	<p style='line-height:0.4em'>
 		<br>
